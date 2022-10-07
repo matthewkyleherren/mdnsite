@@ -1547,7 +1547,9 @@ form input[type=submit] {
 .heroEmojis {
     margin-bottom: 8rem;
     opacity: 0;
-    padding-top: 76.9230769231vw
+    padding-top: 76.9230769231vw;
+    background: url(/assets/imgs/hero_mobile.jpg);
+        background-size:cover;
 }
 
 @media screen and (min-width:501px) {
