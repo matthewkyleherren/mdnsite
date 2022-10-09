@@ -3086,7 +3086,7 @@ form input[type=submit] {
 }
 
 .caseTable {
-    background: #ececec;
+    
     padding-bottom: 3.4rem
 }
 
@@ -3147,7 +3147,7 @@ form input[type=submit] {
 }
 
 .caseImages {
-    background: #ececec;
+    
     overflow-x: hidden;
     padding-bottom: 4rem;
     padding-top: 4rem
@@ -3210,7 +3210,7 @@ form input[type=submit] {
 }
 
 .caseVideos {
-    background: #ececec;
+   
     overflow-x: hidden;
     padding-bottom: 4rem;
     padding-top: 4rem
@@ -3276,7 +3276,7 @@ form input[type=submit] {
 }
 
 .caseBlocks {
-    background: #ececec;
+    
     padding-bottom: 4rem;
     padding-top: 4rem
 }
@@ -3543,7 +3543,7 @@ form input[type=submit] {
 }
 
 .caseSquares {
-    background: #ececec;
+    
     overflow: hidden;
     padding-bottom: 4rem;
     padding-top: 4rem
@@ -3647,7 +3647,7 @@ form input[type=submit] {
 }
 
 .caseSquares .square-box.-white {
-    background: #ececec;
+   
     color: #262523
 }
 
@@ -3700,7 +3700,7 @@ form input[type=submit] {
 }
 
 .caseColumns {
-    background: #ececec;
+   
     padding-bottom: 4rem;
     padding-top: 4rem
 }
@@ -3790,7 +3790,7 @@ form input[type=submit] {
 }
 
 .caseQuote {
-    background: #ececec;
+    
     padding-bottom: 4rem;
     padding-top: 4rem
 }
@@ -3842,7 +3842,7 @@ form input[type=submit] {
 }
 
 .caseQuote .caseQuote-quote.-white {
-    background: #ececec;
+  
     color: #262523
 }
 
@@ -3851,7 +3851,7 @@ form input[type=submit] {
 }
 
 .caseNext {
-    background: #ececec;
+  
     padding-bottom: 0;
     padding-top: 4rem
 }
@@ -3967,7 +3967,7 @@ form input[type=submit] {
 }
 
 .caseGrid {
-    background: #ececec;
+  
     padding-bottom: 4rem;
     padding-top: 4rem
 }
