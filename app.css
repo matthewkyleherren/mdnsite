@@ -981,7 +981,9 @@ header .line:last-child {
 }
 
 .-black footer,
-.-black footer .footer-link {
+.-black footer .footer-link,
+.-white footer
+{
     color: #ececec
 }
 
