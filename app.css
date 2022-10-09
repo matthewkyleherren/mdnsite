@@ -18,6 +18,10 @@ section {
     display: block
 }
 
+section {
+    border-bottom: 2px solid black;
+}
+
 a {
     background-color: transparent
 }
@@ -61,7 +65,7 @@ html {
 }
 
 body {
-    background: #ececec;
+    background-color: rgb(196, 190, 164);
     color: #262523;
     -webkit-user-select: none;
     -moz-user-select: none;
