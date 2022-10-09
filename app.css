@@ -1654,19 +1654,21 @@ form input[type=submit] {
 
 .heroEmojis .heroEmojis-content {
     position: absolute;
-    top: 43vh;
+    top: 63vh;
 }
 
 .heroEmojis .heroEmojis-title {
     margin-bottom: 3.4rem;
     position: relative;
-    color: black;
+    color: white;
+    padding:10px;
+    background: black
 }
 
 @media screen and (min-width:750px) {
     .heroEmojis .heroEmojis-title {
         margin-bottom: 0;
-        font-size: 7vw;
+        font-size: 5vw;
     }
 }
 
@@ -1678,13 +1680,15 @@ form input[type=submit] {
     margin-bottom: 3.4rem;
     top: 0;
     color: black;
+    display:none
 }
 
 @media screen and (min-width:750px) {
     .heroEmojis .heroEmojis-tag {
         left: 50vw;
         margin-bottom: 0;
-        position: absolute
+        position: absolute;
+        
     }
 }
 
@@ -1697,6 +1701,7 @@ form input[type=submit] {
 .heroEmojis .heroEmojis-description {
     top: 0;
     color: black;
+    display: none
 }
 
 @media screen and (min-width:750px) {
