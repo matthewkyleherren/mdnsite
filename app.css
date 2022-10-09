@@ -4153,3 +4153,9 @@ form input[type=submit] {
 .legal a {
     text-decoration: underline
 }
+
+footer {
+    background: url(/assets/imgs/footer_bg.jpg);
+    background-size: cover;
+    color: #fff
+}
