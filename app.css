@@ -1660,7 +1660,7 @@ form input[type=submit] {
 .heroEmojis .heroEmojis-title {
     margin-bottom: 3.4rem;
     position: relative;
-    color: white;
+    color: black;
 }
 
 @media screen and (min-width:750px) {
