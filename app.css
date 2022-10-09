@@ -471,7 +471,7 @@ li {
 }
 
 .-black .bg-block {
-    background-color: rgb(137, 141, 85);
+    background-color: rgb(62, 100, 57);
 }
 
 .-white .bg-block {
@@ -2406,7 +2406,7 @@ form input[type=submit] {
 }
 
 .is-device .swirlBlock.-black {
-    background: #262523
+    background-color: rgb(29, 65, 32);
 }
 
 .swirlBlock {
@@ -2440,7 +2440,7 @@ form input[type=submit] {
 }
 
 .swirlBlock .swirlBlock-content .swirlBlock-modal {
-    background: #262523;
+    background-color: rgb(29, 65, 32);
     color: #ececec
 }
 
