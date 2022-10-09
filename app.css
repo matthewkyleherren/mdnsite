@@ -471,11 +471,11 @@ li {
 }
 
 .-black .bg-block {
-    background: #262523
+    background-color: rgb(137, 141, 85);
 }
 
 .-white .bg-block {
-    background: #ececec
+    background-color: rgb(196, 190, 164);
 }
 
 .overlay {
