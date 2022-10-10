@@ -1990,17 +1990,7 @@ form input[type=submit] {
 @media screen and (min-width:750px) {
     .featuredProject .featuredProject-asset {
         height: 43.0555555556vw
-    }
-}
 
-.featuredProject .featuredProject-label {
-    display: flex;
-    justify-content: space-between
-}
-
-@media screen and (min-width:750px) {
-    .featuredProject .featuredProject-label {
-        justify-content: flex-start
     }
 }
 
