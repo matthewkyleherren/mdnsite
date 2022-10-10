@@ -1736,13 +1736,21 @@ form input[type=submit] {
     justify-content: flex-end;
     max-height: 100vh;
     opacity: 0;
-    padding-bottom: 4rem
+    padding-bottom: 6rem
 }
 
 .heroElva .heroElva-title {
     margin-bottom: 1.6rem;
     margin-left: -1.3888888889vw;
     text-transform: none
+}
+
+@media screen and (min-width:750px) {
+    .heroElva .heroElva-title {
+        
+        
+        font-size: 10vw;
+    }
 }
 
 .-black .heroContact,
