@@ -1581,36 +1581,7 @@ form input[type=submit] {
     }
 }
 
-.heroHome {
-    
-    background: url(/assets/imgs/hero_mobile.jpg);
-        background-size:cover;
-        height: 100vh;
-}
 
-@media screen and (min-width:501px) {
-    .heroHome {
-       
-        background: url(/assets/imgs/hero_mobile.jpg);
-        background-size:cover;
-    }
-}
-
-@media screen and (min-width:750px) {
-    .heroHome {
-        
-        background: url(/assets/imgs/hero_mobile.jpg);
-        background-size:cover;
-    }
-}
-
-@media screen and (min-width:1025px) {
-    .heroHome {
-        
-        background: url(/assets/imgs/hero_desktop.jpg);
-        background-size:cover;
-    }
-}
 
 .heroEmojis .line-icon {
     display: inline-block;
@@ -4200,4 +4171,35 @@ footer {
 .gl-boxes {
 display: none;
 opacity: 0;
+}
+
+body > main > div > section.heroElva.heroHome {
+    
+    background: url(/assets/imgs/hero_mobile.jpg);
+        background-size:cover;
+        height: 100vh;
+}
+
+@media screen and (min-width:501px) {
+    body > main > div > section.heroElva.heroHome {
+       
+        background: url(/assets/imgs/hero_mobile.jpg);
+        background-size:cover;
+    }
+}
+
+@media screen and (min-width:750px) {
+    body > main > div > section.heroElva.heroHome {
+        
+        background: url(/assets/imgs/hero_mobile.jpg);
+        background-size:cover;
+    }
+}
+
+@media screen and (min-width:1025px) {
+    body > main > div > section.heroElva.heroHome {
+        
+        background: url(/assets/imgs/hero_desktop.jpg);
+        background-size:cover;
+    }
 }
