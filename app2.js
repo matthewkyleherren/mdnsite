@@ -218,7 +218,7 @@
             var s;
             s = typeof Vs != "undefined" && Vs !== null ? Vs : this, s.Lethargy = function () {
                 function t(e, r, i, n) {
-                    this.stability = e != null ? Math.abs(e) : 8, this.sensitivity = r != null ? 1 + Math.abs(r) : 100, this.tolerance = i != null ? 1 + Math.abs(i) : 1.1, this.delay = n ? ? 150, this.lastUpDeltas = function () {
+                    this.stability = e != null ? Math.abs(e) : 8, this.sensitivity = r != null ? 1 + Math.abs(r) : 100, this.tolerance = i != null ? 1 + Math.abs(i) : 1.1, this.delay = n ? 150, this.lastUpDeltas = function () {
                         var o, a, l;
                         for (l = [], o = 1, a = this.stability * 2; 1 <= a ? o <= a : o >= a; 1 <= a ? o++ : o--) l.push(null);
                         return l
